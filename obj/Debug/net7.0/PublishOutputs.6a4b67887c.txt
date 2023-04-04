@@ -1,0 +1,5 @@
+C:\Users\onesl\Desktop\ep2\bin\Debug\net7.0\publish\ep2.exe
+C:\Users\onesl\Desktop\ep2\bin\Debug\net7.0\publish\ep2.dll
+C:\Users\onesl\Desktop\ep2\bin\Debug\net7.0\publish\ep2.deps.json
+C:\Users\onesl\Desktop\ep2\bin\Debug\net7.0\publish\ep2.runtimeconfig.json
+C:\Users\onesl\Desktop\ep2\bin\Debug\net7.0\publish\ep2.pdb
